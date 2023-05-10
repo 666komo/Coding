@@ -1,0 +1,10 @@
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/bin/Debug/07_Had.exe.config
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/bin/Debug/07_Had.exe
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/bin/Debug/07_Had.pdb
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.csproj.AssemblyReference.cache
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.csproj.SuggestedBindingRedirects.cache
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.csproj.CoreCompileInputs.cache
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.exe
+D:/KOOMMMOOOO Files/Documents/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.pdb
+/home/komo/Code/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.exe
+/home/komo/Code/C#/Zadani/07_Had/07_Had/obj/Debug/07_Had.pdb

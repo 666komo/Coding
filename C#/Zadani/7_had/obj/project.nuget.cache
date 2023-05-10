@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0dlm7BEKPgjnQ1yTuH9gXynivN3dWkWKDmqt3Zh/tARhXDlC3Klm1vr5/qENFC9QSrTJENdq+T099MLzs3SUg==",
+  "success": true,
+  "projectFilePath": "/home/komo/Code/C#/Zadani/7_had/7_had.csproj",
+  "expectedPackageFiles": [
+    "/home/komo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

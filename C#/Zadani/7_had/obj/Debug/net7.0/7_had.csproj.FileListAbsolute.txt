@@ -1,0 +1,15 @@
+/home/komo/Code/C#/Zadani/7_had/bin/Debug/net7.0/7_had
+/home/komo/Code/C#/Zadani/7_had/bin/Debug/net7.0/7_had.deps.json
+/home/komo/Code/C#/Zadani/7_had/bin/Debug/net7.0/7_had.runtimeconfig.json
+/home/komo/Code/C#/Zadani/7_had/bin/Debug/net7.0/7_had.dll
+/home/komo/Code/C#/Zadani/7_had/bin/Debug/net7.0/7_had.pdb
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.csproj.AssemblyReference.cache
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.GeneratedMSBuildEditorConfig.editorconfig
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.AssemblyInfoInputs.cache
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.AssemblyInfo.cs
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.csproj.CoreCompileInputs.cache
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.dll
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/refint/7_had.dll
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.pdb
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/7_had.genruntimeconfig.cache
+/home/komo/Code/C#/Zadani/7_had/obj/Debug/net7.0/ref/7_had.dll

@@ -1,0 +1,8 @@
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\bin\Debug\pokus3.exe.config
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\bin\Debug\pokus3.exe
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\bin\Debug\pokus3.pdb
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\obj\Debug\pokus3.csproj.AssemblyReference.cache
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\obj\Debug\pokus3.csproj.SuggestedBindingRedirects.cache
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\obj\Debug\pokus3.csproj.CoreCompileInputs.cache
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\obj\Debug\pokus3.exe
+D:\KOOMMMOOOO Files\Documents\C#\pokusy\pokus3\pokus3\obj\Debug\pokus3.pdb

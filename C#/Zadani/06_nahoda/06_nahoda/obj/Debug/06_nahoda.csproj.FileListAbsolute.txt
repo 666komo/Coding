@@ -1,0 +1,8 @@
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\obj\Debug\06_nahoda.csproj.AssemblyReference.cache
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\obj\Debug\06_nahoda.csproj.SuggestedBindingRedirects.cache
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\obj\Debug\06_nahoda.csproj.CoreCompileInputs.cache
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\bin\Debug\06_nahoda.exe.config
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\bin\Debug\06_nahoda.exe
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\bin\Debug\06_nahoda.pdb
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\obj\Debug\06_nahoda.exe
+D:\KOOMMMOOOO Files\Documents\C#\new\06_nahoda\06_nahoda\obj\Debug\06_nahoda.pdb
