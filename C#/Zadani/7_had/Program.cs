@@ -96,7 +96,7 @@ namespace _07_Had
                 // Pohyb hada
                 pole[hadr, hads] = 2;
                 pole[hadr - hps, hads - hpr] = 0;
-
+		
                 // Výstup
                 Console.Clear();
                 for (int i = 0; i < rad; i++)
@@ -123,29 +123,31 @@ namespace _07_Had
                     Console.WriteLine();
                 }
                 //System.Threading.Thread.Sleep(1000);
-
-                // Ovládání
-                ConsoleKeyInfo keyInfo = Console.ReadKey();
+		
+		// Ovládání
+        	ConsoleKeyInfo keyInfo = Console.ReadKey();	 
                 switch (keyInfo.Key)
-                {
-                    case ConsoleKey.UpArrow:
-                        hps = -1;
-                        hpr = 0;
-                        break;
-                    case ConsoleKey.DownArrow:
-                        hps = 1;
-                        hpr = 0;
-                        break;
-                    case ConsoleKey.LeftArrow:
-                        hps = 0;
-                        hpr = -1;
-                        break;
-                    case ConsoleKey.RightArrow:
-                        hps = 0;
-                        hpr = 1;
-                        break;
-                }
-
+                	{
+                	    case ConsoleKey.UpArrow:
+                	        hps = -1;
+                	        hpr = 0;
+                	        break;
+                	    case ConsoleKey.DownArrow:
+                	        hps = 1;
+                	        hpr = 0;
+                	        break;
+                	    case ConsoleKey.LeftArrow:
+                	        hps = 0;
+                	        hpr = -1;
+                	        break;
+                	    case ConsoleKey.RightArrow:
+                	        hps = 0;
+                	        hpr = 1;
+                	        break;
+                	}
+	 	 
+		
+              
             }
 
         }
