@@ -52,6 +52,8 @@ namespace _07_Had
             int hads = slo / 2;
             pole[hadr, hads] = 2;
 
+
+
             // Jablka
             Random rand = new Random();
             int jabrandr = rand.Next(1, rad - 1);
@@ -88,6 +90,7 @@ namespace _07_Had
                     jabrandr = rand.Next(1, rad - 1);
                     jabrands = rand.Next(1, rad - 1);
                     pole[jabrandr, jabrands] = 3;
+		    
                 }
 
                 // Pohyb hada
