@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/komo/Code/C#/Zadani/7_had/7_had.csproj",
+      "projectUniqueName": "/home/komo/Coding/C#/Zadani/07_had/7_had.csproj",
       "projectName": "7_had",
-      "projectPath": "/home/komo/Code/C#/Zadani/7_had/7_had.csproj",
+      "projectPath": "/home/komo/Coding/C#/Zadani/07_had/7_had.csproj",
       "packagesPath": "/home/komo/.nuget/packages/",
-      "outputPath": "/home/komo/Code/C#/Zadani/7_had/obj/",
+      "outputPath": "/home/komo/Coding/C#/Zadani/07_had/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/komo/.nuget/NuGet/NuGet.Config"
