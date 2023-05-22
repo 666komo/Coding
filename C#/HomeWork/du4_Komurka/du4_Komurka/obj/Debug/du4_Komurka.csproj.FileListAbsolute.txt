@@ -1,8 +1,0 @@
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\bin\Debug\du4_Komurka.exe.config
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\bin\Debug\du4_Komurka.exe
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\bin\Debug\du4_Komurka.pdb
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\obj\Debug\du4_Komurka.csproj.AssemblyReference.cache
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\obj\Debug\du4_Komurka.csproj.SuggestedBindingRedirects.cache
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\obj\Debug\du4_Komurka.csproj.CoreCompileInputs.cache
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\obj\Debug\du4_Komurka.exe
-D:\KOOMMMOOOO Files\Documents\C#\HomeWork\du4_Komurka\du4_Komurka\obj\Debug\du4_Komurka.pdb
