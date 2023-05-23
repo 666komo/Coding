@@ -72,7 +72,7 @@ namespace _07_Had
                 hadr += hps;
                 hads += hpr;
 
-                // Oveření, zda se had nenarazil na hranici pole
+                // Oveření, zda se had nenarazil do zdi
                 if (hadr <= 0 || hadr >= rad-1||hads<=0||hads >= slo - 1)
                 {
                     Console.Clear();
@@ -100,7 +100,7 @@ namespace _07_Had
                 pole[hadr, hads] = 2;
                 pole[hadr - hps, hads - hpr] = 0;
 		
-                // Výstup
+                // Výstup				1 - ohraniceni pole	2 - had		3 - jablko	4 - vypln pole
                 Console.Clear();
                 for (int i = 0; i < rad; i++)
                 {
@@ -147,9 +147,7 @@ namespace _07_Had
                 	        hps = 0;
                 	        hpr = 1;
                 	        break;
-                	}
-	 	 
-		
+                	}	
               
             }
 
