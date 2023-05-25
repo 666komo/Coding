@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YHJ0GzVUTApNhkCDeDw8HEQHumsyy9mlAq1Fbnp81LRJnnYN1lD5il9TT1biF+gZdDKzSqopS0WPXSXLFlULg==",
+  "success": true,
+  "projectFilePath": "/home/komo/Coding/C#/pokusy/1/1.csproj",
+  "expectedPackageFiles": [
+    "/home/komo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

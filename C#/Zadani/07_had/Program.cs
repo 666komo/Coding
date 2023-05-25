@@ -14,6 +14,13 @@ namespace _07_Had
     {
         static void Main(string[] args)
         {
+
+	    // Konf.
+            Console.Title = "Had";
+            int hpr = 0;
+            int hps = 0;
+	    Console.Clear();
+	    int ocas = 0;
             int rozmerpole;
             // Menu
             int rad = 0;
@@ -63,10 +70,7 @@ namespace _07_Had
             int jabrands = rand.Next(1, slo - 1);
             pole[jabrandr, jabrands] = 3;
 
-            // Konf.
-            Console.Title = "Had";
-            int hpr = 0;
-            int hps = 0;
+
             while (true)
             {
                 hadr += hps;
@@ -93,6 +97,9 @@ namespace _07_Had
                     jabrandr = rand.Next(1, rad - 1);
                     jabrands = rand.Next(1, rad - 1);
                     pole[jabrandr, jabrands] = 3;
+		    for(int len=0;i=<1;i++){
+			    ocas = ocas + 1;
+		    }
 		    
                 }
 
