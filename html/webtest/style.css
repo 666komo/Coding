@@ -1,30 +1,101 @@
 *{
-	margin: 0;
+	font-family: sans-serif;
+	font-weight: Bold;
 	padding: 0;
-	font-family: Roboto;
+	margin: 0;
+	text-decoration: none;
 }
 
 .banner{
-	width: 100%;
+	max-width: 100%;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./images/banner.png);
-	background-size: cover;
+	background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(./images/banner.png);
 	background-position: center;
-	position: relative;
+	background-size: cover;
 }
 
-.navbar{
-	position: top;
-	max-height: 80px;
+.nav{
+	color: #000000;
+	text-align: center;
+	width: 85%;
+	height: 100px;
+	margin: auto;
+	display: flex;
+	padding: 35px 0;
+	align-items: center;
+	justify-content: unset;
 }
 
 .logo{
-	max-width: 60px;
-	max-height: 60px;
-	padding-left: 40px;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	background-position: left;
-	border-radius: 10px;
-	background-image: url(./images/logo.png);
+	align-content: left;
+	width: 200px;
+	cursor: pointer;
+	margin-left: 20px;
+	padding: 15px;
+	background-color: #424242;
+	border: 2px solid #fff;
+	border-radius: 15px;
+}
+
+.lr{
+	list-style: none;
+	align-content: right;
+	margin-left: 55%;
+}
+
+.link{
+	size: auto;
+	display: inline-block;
+	padding: 10px;
+	border: 2px solid #424242;
+	border-radius: 15px;
+	background: linear-gradient(56deg, rgba(221,0,233,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#maincontent{
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: Bold;
+	width: 50%;
+	align-content: center;
+	position: center;
+	margin: auto;
+}
+
+#mainh1{
+	margin-top: 15%;
+	margin-bottom: 10px;
+	color: gray;
+}
+
+#mainp{
+	color: gray;
+}
+
+#studiocontent{
+	max-height: 75%;
+	max-width: 90%;
+	align-content: center;
+	position: center;
+	margin: 0px auto;
+}
+
+#studioh1{
+	color: white;
+	text-align: center;
+}
+
+.tripimages{
+	display: inline-block;
+	position: center;
+	align-content: center;
+	margin: 0 auto;
+}
+
+.img{
+	border-radius: 15px;
+	margin: 20px 30px;
+	height: 650px;
+	width: 500px;
+
 }
