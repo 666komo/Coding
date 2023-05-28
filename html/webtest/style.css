@@ -52,38 +52,6 @@
 	background: linear-gradient(56deg, rgba(221,0,233,1) 0%, rgba(0,212,255,1) 100%);
 }
 
-#maincontent{
-	font-family: monospace;
-	font-size: 20px;
-	font-weight: Bold;
-	width: 50%;
-	align-content: center;
-	position: center;
-	margin: auto;
-}
-
-#mainh1{
-	margin-top: 15%;
-	margin-bottom: 10px;
-	color: gray;
-}
-
-#mainp{
-	color: gray;
-}
-
-#studiocontent{
-	max-height: 75%;
-	max-width: 90%;
-	align-content: center;
-	position: center;
-	margin: 0px auto;
-}
-
-#studioh1{
-	color: white;
-	text-align: center;
-}
 
 .tripimages{
 	display: inline-block;
@@ -99,3 +67,104 @@
 	width: 500px;
 
 }
+
+/*
+ __  __      _      ___   _   _ 
+|  \/  |    / \    |_ _| | \ | |
+| |\/| |   / _ \    | |  |  \| |
+| |  | |  / ___ \   | |  | |\  |
+|_|  |_| /_/   \_\ |___| |_| \_|
+
+*/
+
+#maincontent{
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: Bold;
+	width: 50%;
+	align-content: center;
+	position: center;
+	padding-top: 30px;
+	margin: auto;
+}
+
+#mainh1{
+	margin-top: 15%;
+	margin-bottom: 10px;
+	color: gray;
+}
+
+#mainp{
+	color: gray;
+}
+/*
+ ____    _____   _   _   ____    ___    ___  
+/ ___|  |_   _| | | | | |  _ \  |_ _|  / _ \ 
+\___ \    | |   | | | | | | | |  | |  | | | |
+ ___) |   | |   | |_| | | |_| |  | |  | |_| |
+|____/    |_|    \___/  |____/  |___|  \___/ 
+                                             
+*/
+#studiocontent{
+	max-height: 75%;
+	max-width: 90%;
+	align-content: center;
+	position: center;
+	margin: 0px auto;
+}
+
+#studioh1{
+	font-style: italic;
+	margin-bottom: 10px;
+	color: white;
+	text-align: center;
+}
+
+/*
+  ____      _      _       _       _____   ____   __   __
+ / ___|    / \    | |     | |     | ____| |  _ \  \ \ / /
+| |  _    / _ \   | |     | |     |  _|   | |_) |  \ V / 
+| |_| |  / ___ \  | |___  | |___  | |___  |  _ <    | |  
+ \____| /_/   \_\ |_____| |_____| |_____| |_| \_\   |_|  
+                                                         
+*/
+
+.gallerycontent{
+	color: white;
+	align-content: center center;
+	margin: auto;
+	max-height: 75%;
+	max-width: 90%;
+}
+
+.gallerycontentnext{
+	padding-top: 125px;
+	margin: auto;
+	max-height: 75%;
+	max-width: 90%;
+}
+
+#galleryh1{
+	text-align: center;
+}
+
+
+/*
+ ____    ____    ___    ____   ___   _   _    ____ 
+|  _ \  |  _ \  |_ _|  / ___| |_ _| | \ | |  / ___|
+| |_) | | |_) |  | |  | |      | |  |  \| | | |  _ 
+|  __/  |  _ <   | |  | |___   | |  | |\  | | |_| |
+|_|     |_| \_\ |___|  \____| |___| |_| \_|  \____|
+                                                   
+*/
+
+
+
+/*
+  ____    ___    _   _   _____      _       ____   _____ 
+ / ___|  / _ \  | \ | | |_   _|    / \     / ___| |_   _|
+| |     | | | | |  \| |   | |     / _ \   | |       | |  
+| |___  | |_| | | |\  |   | |    / ___ \  | |___    | |  
+ \____|  \___/  |_| \_|   |_|   /_/   \_\  \____|   |_|  
+                                                         
+*/
