@@ -1,0 +1,7 @@
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\bin\Debug\Komurka.exe.config
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\bin\Debug\Komurka.exe
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\bin\Debug\Komurka.pdb
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\obj\Debug\Komurka.csproj.AssemblyReference.cache
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\obj\Debug\Komurka.csproj.CoreCompileInputs.cache
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\obj\Debug\Komurka.exe
+D:\KOOMMMOOOO Files\Documents\C#\new\Komurka\Komurka\obj\Debug\Komurka.pdb

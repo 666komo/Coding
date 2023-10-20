@@ -1,0 +1,14 @@
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\bin\Debug\net7.0\05_ahojmisoo.exe
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\bin\Debug\net7.0\05_ahojmisoo.deps.json
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\bin\Debug\net7.0\05_ahojmisoo.runtimeconfig.json
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\bin\Debug\net7.0\05_ahojmisoo.dll
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\bin\Debug\net7.0\05_ahojmisoo.pdb
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.GeneratedMSBuildEditorConfig.editorconfig
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.AssemblyInfoInputs.cache
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.AssemblyInfo.cs
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.csproj.CoreCompileInputs.cache
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.dll
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\refint\05_ahojmisoo.dll
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.pdb
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\05_ahojmisoo.genruntimeconfig.cache
+J:\Coding\C#\3r\Zadani\05_ahojmisoo\05_ahojmisoo\obj\Debug\net7.0\ref\05_ahojmisoo.dll

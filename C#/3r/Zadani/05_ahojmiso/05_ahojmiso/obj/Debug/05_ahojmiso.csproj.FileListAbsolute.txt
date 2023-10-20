@@ -1,0 +1,7 @@
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\bin\Debug\05_ahojmiso.exe.config
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\bin\Debug\05_ahojmiso.exe
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\bin\Debug\05_ahojmiso.pdb
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\obj\Debug\05_ahojmiso.csproj.AssemblyReference.cache
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\obj\Debug\05_ahojmiso.csproj.CoreCompileInputs.cache
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\obj\Debug\05_ahojmiso.exe
+C:\Users\st024759\Desktop\diiiik\05_ahojmiso\05_ahojmiso\obj\Debug\05_ahojmiso.pdb
