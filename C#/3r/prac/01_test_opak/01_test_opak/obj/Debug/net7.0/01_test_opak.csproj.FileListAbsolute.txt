@@ -1,0 +1,15 @@
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\bin\Debug\net7.0\01_test_opak.exe
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\bin\Debug\net7.0\01_test_opak.deps.json
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\bin\Debug\net7.0\01_test_opak.runtimeconfig.json
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\bin\Debug\net7.0\01_test_opak.dll
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\bin\Debug\net7.0\01_test_opak.pdb
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.csproj.AssemblyReference.cache
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.GeneratedMSBuildEditorConfig.editorconfig
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.AssemblyInfoInputs.cache
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.AssemblyInfo.cs
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.csproj.CoreCompileInputs.cache
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.dll
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\refint\01_test_opak.dll
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.pdb
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\01_test_opak.genruntimeconfig.cache
+J:\git\Coding\C#\3r\prac\01_test_opak\01_test_opak\obj\Debug\net7.0\ref\01_test_opak.dll
