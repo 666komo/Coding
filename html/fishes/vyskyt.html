@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="./css/v.css">
+    <link rel="stylesheet" href="./css/navbar.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Vyskyt jidla zde</title>
+</head>
+<script>
+    function saveForm(event) {
+        event.preventDefault(); // Prevent form from submitting
+
+        // Get form values
+        const jmeno = document.getElementById("jmeno").value;
+        const prijmeni = document.getElementById("prijmeni").value;
+        const heslo = document.getElementById("heslo").value;
+        const obed = document.querySelector('input[name="obed"]:checked').value;
+        const zakusek = document.getElementById("zakusek").checked ? 'Ano' : 'Ne';
+        const vetrnik = document.getElementById("vetrnik").checked ? 'Ano' : 'Ne';
+
+        // Create data string
+        const data = `Jméno: ${jmeno}\nPříjmení: ${prijmeni}\nHeslo: ${heslo}\nOběd: ${obed}\nZákusek: ${zakusek}\nVětrník: ${vetrnik}\n\n`;
+
+        // Save data as file
+        const blob = new Blob([data], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "objednavky.txt";
+        a.click();
+        URL.revokeObjectURL(url);
+    }
+</script>
+<body>
+    <body>
+        <div id="nav">
+            <a href="./index.html">Domů</a>
+            <a href="./friends.html">Kamarádi</a>
+            <a href="./vyskyt.html">Výskyt</a>
+        </div>
+        <div id="content">
+          
+        <form id="orderform">
+        <label for="jmeno">Jméno:</label>
+        <input type="text" id="jmeno" name="jmeno" required><br><br>
+
+        <label for="prijmeni">Příjmení:</label>
+        <input type="text" id="prijmeni" name="prijmeni" required><br><br>
+
+        <label for="heslo">Heslo:</label>
+        <input type="password" id="heslo" name="heslo" required><br><br>
+
+        <p>Oběd:</p>
+        <input type="radio" id="obed1" name="obed" value="1" checked>
+        <label for="obed1">1</label><br>
+
+        <input type="radio" id="obed2" name="obed" value="2">
+        <label for="obed2">2</label><br>
+
+        <input type="radio" id="obed3" name="obed" value="3">
+        <label for="obed3">3</label><br><br>
+
+        <label for="zakusek">Zákusek:</label>
+        <input type="checkbox" id="zakusek" name="zakusek" value="zakusek"><br>
+
+        <label for="vetrnik">Větrník:</label>
+        <input type="checkbox" id="vetrnik" name="vetrnik" value="vetrnik"><br><br>
+
+        <input type="submit" onclick="saveForm(event)" value="Odeslat">
+        <input type="reset" value="Reset">
+        </form>
+</body>
+</html>
+
+        </div>
+</body>
+</html>

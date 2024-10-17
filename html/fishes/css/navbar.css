@@ -1,0 +1,15 @@
+#nav{
+    width: 100px;
+    margin: 5px 10px;
+    height: 120px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    display: grid;
+    border-radius: 20px;
+}
+
+a{
+    margin: 10px;
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

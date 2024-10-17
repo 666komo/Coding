@@ -1,0 +1,16 @@
+html{
+    background-color: gray;
+}
+
+body{
+    display: flex;
+    align-content: space-between;
+}
+
+#content{
+    width: 400px;
+    height: auto;
+    display: grid;
+    text-align: center;
+    align-content: center;
+}
